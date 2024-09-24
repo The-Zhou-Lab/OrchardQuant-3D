@@ -22,7 +22,7 @@ If you wish to run OrchardQuant-3D from source code, you will need to set up Pyt
    •	For Mac OS users, Python 3 release can be downloaded via: 
    https://www.python.org/downloads/mac-osx/
    
-   •	Pear-Analysis only supports Python 3 onwards
+   •	OrchardQuant-3D only supports Python 3 onwards
 
 2. Install Anaconda Python distribution:
    
@@ -41,7 +41,7 @@ If you wish to run OrchardQuant-3D from source code, you will need to set up Pyt
 
 3. Install packages:
 
-   • Pear-Analysis uses a number of 3rd-party libraries that you may need to add to your conda environment.
+   • OrchardQuant-3D uses a number of 3rd-party libraries that you may need to add to your conda environment.
    These include, but are not limited to:
    
        Laspy=2.5.1
@@ -63,7 +63,7 @@ If you wish to run OrchardQuant-3D from source code, you will need to set up Pyt
        Scipy=1.9.1
        Vtk=9.2.6
        mistree=1.2.0
-## Running Pear-Analysis
+## Running OrchardQuant-3D
 
-A Windows executable file (.exe) can be downloaded from the latest release together with a compressed file (Pear-Analysis.zip).
+A Windows executable file (.exe) can be downloaded from the latest release together with a compressed file (OrchardQuant-3D.zip).
 
