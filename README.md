@@ -1,4 +1,4 @@
-# Pear-Analysis
+# OrchardQuant-3D
 
 Yunpeng Xia<sup>1*</sup>, Hanghang Li<sup>1</sup>, Gang Sun<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
@@ -9,7 +9,7 @@ Yunpeng Xia<sup>1*</sup>, Hanghang Li<sup>1</sup>, Gang Sun<sup>1</sup>, Ji Zho
 <sup>*</sup>Correspondence for the source code: 2021101187@njau.edu.cn; Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
 ## Install Python, Anaconda and Libraries
-If you wish to run Pear-Analysis from source code, you will need to set up Python on your operating system. 
+If you wish to run OrchardQuant-3D from source code, you will need to set up Python on your operating system. 
 
 1. Install Python releases:
    
