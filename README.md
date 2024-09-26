@@ -2,11 +2,11 @@
 
 Yunpeng Xia<sup>1*</sup>, Hanghang Li<sup>1</sup>, Gang Sun<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
-<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Agriculture, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
+<sup>1</sup>Academy for Advanced Interdisciplinary Studies, The Crop Phenomics Research Center, Nanjing Agricultural University, Nanjing 210095, China;
 
-<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany, Cambridge CB3 0LE, UK;
+<sup>2</sup>Data Sciences Department, Crop Science Centre (CSC), National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK;
 
-<sup>*</sup>Correspondence for the source code: xiayunpeng@stu.njau.edu.cn; Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
+<sup>*</sup>Correspondence: xiayunpeng@stu.njau.edu.cn; Ji.Zhou@NJAU.edu.cn, Ji.Zhou@NIAB.com, or JZ655@cam.ac.uk
 
 ## Install Python, Anaconda and Libraries
 If you wish to run OrchardQuant-3D from source code, you will need to set up Python on your operating system. 
