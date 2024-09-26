@@ -65,5 +65,5 @@ If you wish to run OrchardQuant-3D from source code, you will need to set up Pyt
        mistree=1.2.0
 ## Running OrchardQuant-3D
 
-A Windows executable file (.exe) can be downloaded from the latest release together with a compressed file (OrchardQuant-3D.zip).
+After successfully installing the required third-party libraries, you can download the fruit tree point cloud test data and the necessary files for running the code in Jupyter Notebook from the compressed file (OrchardQuant-3D.zip) that we have provided. Next, please run the code in the latest version we provided to obtain the result data. To reduce the running time, we have also included a multi-process version of the code for your convenience.
 
