@@ -1,4 +1,4 @@
-# OrchardQuant-3D
+# OrchardQuant-3D - combining drone and LiDAR to perform scalable 3D phenotyping for characterising key canopy and floral traits in fruit orchards
 
 Yunpeng Xia<sup>1*</sup>, Hanghang Li<sup>1</sup>, Gang Sun<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
