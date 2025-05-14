@@ -10,15 +10,19 @@ Yunpeng Xia<sup>1*</sup>, Hanghang Li<sup>1</sup>, Gang Sun<sup>1</sup>, Ji Zho
 
 ## The main files are as follows:
 (1)Testing data
+
 To help users better experience and evaluate our algorithm performance, we have provided a high-quality 3D point cloud dataset of apple and pear trees. Users can access this data via the 'Data_pear' and 'Data_apple' folders in our newly released v1.2 version, and can operate it according to the user manual.
 
 (2)Jupyter notebook
+
 We have shared the latest code for OrchardQuant-3D.We applied adaptive parameterisation to derive parameters for algorithms embedded in the pipeline to reduce hardcoded values.For example, the distance parameterisation was based on measures of tree trunks and reference points (e.g. GCPs) in the 3D orchard, whereas colour (e.g. RGB values) or LiDAR intensity values were normalised according to unified scales followed across key growth stages. Users can download the 'OrchardQuant-3D_V1.2' folder in our latest v1.2 release to access the complete code.
 
 (3)gui
+
 We created a graphical user interface (GUI) for key steps of the OrchardQuant-3D pipeline (i.e. tree segmentation, 3D tree skeletonization, canopy- and branch-level trait analysis), so that nonexperts can easily utilise our work. We employed the Tkinter toolkit to develop the cross-platform GUI software. We have uploaded the relevant GUI files for user convenience.We provide testing data and RTK shapefile formats for users to download and use according to their workflow.
 
 (4)Stratified Transformer model
+
 We trained a standard stratified Transformer model (https://github.com/dvlab-research/Stratified-Transformer) using apple point cloud data.To facilitate reproducibility of our research, we provide the complete model training configuration file, including network architecture parameters and training hyperparameters. The trained deep learning model was then applied to effectively segment apple-related features within the point clouds, enabling the detection of apple-like objects.
 
 ## Install Python, Anaconda and Libraries
