@@ -17,7 +17,7 @@ To help users better experience and evaluate our algorithm performance, we have 
 
 We have shared the latest code for OrchardQuant-3D.We applied adaptive parameterisation to derive parameters for algorithms embedded in the pipeline to reduce hardcoded values.For example, the distance parameterisation was based on measures of tree trunks and reference points (e.g. GCPs) in the 3D orchard, whereas colour (e.g. RGB values) or LiDAR intensity values were normalised according to unified scales followed across key growth stages. Users can download the 'OrchardQuant-3D_V1.2' folder in our latest v1.2 release to access the complete code.
 
-(3) gui
+(3) GUI
 
 We created a graphical user interface (GUI) for key steps of the OrchardQuant-3D pipeline (i.e. tree segmentation, 3D tree skeletonization, canopy- and branch-level trait analysis), so that nonexperts can easily utilise our work. We employed the Tkinter toolkit to develop the cross-platform GUI software. We have uploaded the relevant GUI files for user convenience.We provide testing data and RTK shapefile formats for users to download and use according to their workflow.
 
